@@ -22,5 +22,5 @@ talys <input> output
 ```
 This calculation should take <5 seconds. To confirm the calculation has run correctly, the output file's last line will say `The TALYS team congratulates you with this successful calculation.`
 
-### Future alterations 
+## Future alterations 
 The container image is currently in a primitive state. Volumes will be added to enable data transfer between the container and the host. 

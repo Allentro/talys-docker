@@ -8,7 +8,7 @@ https://tendl.web.psi.ch/tendl_2019/talys.html
 ## Getting started
 To create the docker image: 
 ```
-git build -t talys .
+docker build -t talys .
 ```
 
 To run the container interactively run: 
